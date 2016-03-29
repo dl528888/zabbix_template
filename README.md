@@ -1,2 +1,1 @@
-# zabbix_template
-zabbix monitor template
+我自己制作的zabbix监控模板，大家可以可以自己下载使用，有使用上的问题可以与我qq：244979152沟通。
